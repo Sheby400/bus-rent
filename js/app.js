@@ -53,6 +53,116 @@ const buses = [
         features: [
             'Aire Acondicionado', 'Wifi', 'USB', 'Baño', 'Pantalla'
         ]    
+    },
+    {
+        id: 'BUS-006',
+        name: 'Irizar i6s',
+        type: 'Turismo',
+        seats: 40,
+        price: 8800,
+        status: 'available',
+        features: [
+            'Aire Acondicionado', 'Wifi', 'USB', 'Baño'
+        ]
+    },
+    {
+        id: 'BUS-007',
+        name: 'Dina Olímpico',
+        type: 'Ejecutivo',
+        seats: 36,
+        price: 7400,
+        status: 'available',
+        features: [
+            'Aire Acondicionado', 'USB', 'Pantalla'
+        ]    
+    },
+    {
+        id: 'BUS-008',
+        name: 'Mercedes-Benz Tourismo',
+        type: 'Premium',
+        seats: 49,
+        price: 12500,
+        status: 'available',
+        features: [
+            'Aire Acondicionado', 'Wifi', 'USB', 'Baño', 'Pantalla'
+        ]
+    },
+    {
+        id: 'BUS-009',
+        name: 'Yutong ZK6122',
+        type: 'Turismo',
+        seats: 55,
+        price: 10200,
+        status: 'available',
+        features: [
+            'Aire Acondicionado', 'Wifi', 'USB', 'Baño'
+        ]
+    },
+    {
+        id: 'BUS-010',
+        name: 'Volvo B8RLE',
+        type: 'Ejecutivo',
+        seats: 28,
+        price: 6300,
+        status: 'available',
+        features: [
+            'Aire Acondicionado', 'USB'
+        ]    
+    },
+    {
+        id: 'BUS-011',
+        name: 'Marcopolo Paradiso 1800 DD',
+        type: 'Premium',
+        seats: 60,
+        price: 14000,
+        status: 'available',
+        features: [
+            'Aire Acondicionado', 'Wifi', 'USB', 'Baño', 'Pantalla', 'Asientos Reclinables'
+        ]
+    },
+    {
+        id: 'BUS-012',
+        name: 'Irizar i8',
+        type: 'Premium',
+        seats: 44,
+        price: 13000,
+        status: 'available',
+        features: [
+            'Aire Acondicionado', 'Wifi', 'USB', 'Baño', 'Pantalla'
+        ]
+    },
+    {
+        id: 'BUS-013',
+        name: 'Toyota HiAce',
+        type: 'Ejecutivo',
+        seats: 15,
+        price: 4800,
+        status: 'available',
+        features: [
+            'Aire Acondicionado', 'USB'
+        ]
+    },
+    {
+        id: 'BUS-014',
+        name: 'Scania Touring',
+        type: 'Turismo',
+        seats: 47,
+        price: 9800,
+        status: 'available',
+        features: [
+            'Aire Acondicionado', 'Wifi', 'USB', 'Baño', 'Pantalla'
+        ]
+    },
+    {
+        id: 'BUS-015',
+        name: 'Ayats Horizon',
+        type: 'Premium',
+        seats: 64,
+        price: 15500,
+        status: 'available',
+        features: [
+            'Aire Acondicionado', 'Wifi', 'USB', 'Baño', 'Pantalla', 'Cafetería'
+        ]
     }
 ]
 
